@@ -1,3 +1,6 @@
+## NAME:KAAVIYAN K
+
+## REG NO :212224240066
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
  
@@ -159,7 +162,8 @@ int main() {
 
 
 ## Output:
-<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/677bd7c2-379d-463d-a81a-cfdf2efcc90d" />
+<img width="1911" height="1012" alt="image" src="https://github.com/user-attachments/assets/ff7b28b7-82da-4bd9-be8a-23c65ee403ae" />
+
 
 ## Result
 Thus the program is executed successfully..
